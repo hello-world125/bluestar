@@ -40,9 +40,8 @@ export const company = {
   name: 'BlueStar Technology',
   legalName: 'Bluestar Technology LLC',
   location: 'Florida',
-  email: 'hello@bluestartech.example', // PLACEHOLDER
-  phone: '(555) 010-0000', // PLACEHOLDER
-  phoneHref: 'tel:+15550100000', // PLACEHOLDER
+  email: 'bluetechllc03@gmail.com', // PLACEHOLDER
+  phone: '+1 773 820 7101', // PLACEHOLDER
   hours: 'Mon–Fri, 9am–6pm ET', // PLACEHOLDER
   copyrightYear: 2026,
 }
