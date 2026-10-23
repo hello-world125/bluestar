@@ -67,7 +67,7 @@ export default function Contact() {
 
   const info = [
     { icon: Mail, label: 'Email', value: company.email, href: `mailto:${company.email}` },
-    { icon: Phone, label: 'Phone', value: company.phone, href: company.phoneHref },
+    { icon: Phone, label: 'Phone', value: company.phone },
     { icon: MapPin, label: 'Location', value: company.location },
     { icon: Clock, label: 'Hours', value: company.hours },
   ]

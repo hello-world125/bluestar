@@ -33,11 +33,7 @@ export default function Footer() {
                 {company.email}
               </a>
             </li>
-            <li>
-              <a href={company.phoneHref} className="hover:text-cyan">
-                {company.phone}
-              </a>
-            </li>
+            <li>{company.phone}</li>
             <li>{company.location}</li>
           </ul>
         </div>

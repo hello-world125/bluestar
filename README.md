@@ -29,7 +29,7 @@ Anything marked `PLACEHOLDER` should be replaced before launch.
 - **Tagline:** `hero.headline` and `hero.headlineAccent`. Alternative taglines are listed in a comment above `hero`.
 - **Services, value points and process steps:** each is an array. Add, remove or reorder items freely. Icons come from [lucide.dev/icons](https://lucide.dev/icons). Import the icon you want at the top of the file and set it as `icon`.
 - **Testimonials:** replace the sample quotes, then set `testimonialsArePlaceholders = false` to remove the "Placeholder" badges.
-- **Contact info:** edit `company.email`, `company.phone`, `company.phoneHref` and `company.hours`.
+- **Contact info:** edit `company.email`, `company.phone` and `company.hours`.
 
 SEO tags (title, description, Open Graph) live in [`index.html`](index.html).
 **Replace `https://www.example.com/`** in the `og:url` and `og:image` tags with your
